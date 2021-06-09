@@ -16,18 +16,23 @@ The repository consists of mini-projects and three capstone projects for Springb
 **PRIMARY GOALS**
 
 [X] Train a linear regression on your existing data
+
 [X] Evaluate the linear regression model accuracy and be able to discuss with me how well or poorly you think it would work in the real world
 
 STRETCH GOALS
 
 [X] add the country categorical feature to your model
+
 [X] retrain your model
+
 [X] evaluate the new model and compare to the previous one
 
 **NEXT WEEK**
 
 [ ] find information about the latitude and longitude for each country + year pair in your dataset
+
 [ ] some countries may appear and disappear over time and you may not be able to find a lat/lon pair for all of your dataset rows. this will give us an opportunity to do some data cleaning and deal with missing data (isna() and fillna())
+
 [ ] find 2 more datasets unrelated to this dataset and write 2 more brief descriptions of these datasets and short proposals for 2 projects, these data descriptions and proposals can be v similar to the Jupyter notebook you composed after our first call, with the addition of information about how to acquire the data (urls to the data)
 
 **WEEK AFTER NEXT**
