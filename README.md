@@ -29,11 +29,11 @@ STRETCH GOALS
 
 **NEXT WEEK**
 
-[ ] find information about the latitude and longitude for each country + year pair in your dataset
+[X] find information about the latitude and longitude for each country + year pair in your dataset
 
-[ ] some countries may appear and disappear over time and you may not be able to find a lat/lon pair for all of your dataset rows. this will give us an opportunity to do some data cleaning and deal with missing data (isna() and fillna())
+[X] some countries may appear and disappear over time and you may not be able to find a lat/lon pair for all of your dataset rows. this will give us an opportunity to do some data cleaning and deal with missing data (isna() and fillna())
 
-[ ] find 2 more datasets unrelated to this dataset and write 2 more brief descriptions of these datasets and short proposals for 2 projects, these data descriptions and proposals can be v similar to the Jupyter notebook you composed after our first call, with the addition of information about how to acquire the data (urls to the data)
+[ ] find 2 more datasets unrelated to this dataset and write 2 more brief descriptions of these datasets and short proposals for 2 projects, these data descriptions and proposals can be similar to the Jupyter notebook you composed after our first call, with the addition of information about how to acquire the data (urls to the data)
 
 **WEEK AFTER NEXT**
 
