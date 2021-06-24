@@ -3,7 +3,7 @@
 | **[Overview](#overview)**
 
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-380/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/jonahwinninghoff/Springboard/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jonahwinninghoff/Springboard/graphs/commit-activity)
 
 
 ## Overview
