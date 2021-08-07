@@ -8,4 +8,4 @@
 
 ## Overview
 
-The repository consists of mini-projects and three capstone projects for Springboard Data Science Career Plus, which provides necessary trainings with mentorship support for my professional career development. As indicated by above, there are several folders that contain a variety of Jupyter notebooks, problem worksheets, and architecture decision records, to name a few. 
+The repository consists of many mini-projects and one guided capstone project for Springboard Data Science Career Plus, which provides necessary trainings with mentorship support for my professional career development. As indicated by above, there are several folders that contain a variety of Jupyter notebooks, problem worksheets, and architecture decision records, to name a few. 
